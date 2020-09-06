@@ -2,6 +2,7 @@
 
 A study case for authentication setup at React Native using the Context API.
 
+[![Author][author-shield]][author-url]
 [![Languages][languages-shield]][repo-url]
 [![License][license-shield]][license-url]
 
@@ -10,7 +11,7 @@ A study case for authentication setup at React Native using the Context API.
 A project for study case about how the authentication flow works on
 React Native and - almost equally on - ReactJS environment.
 
-_This project is the result from [Masterclass #12][rocketseat-youtube] by [@Rocketseat][rocketseat-github]._
+:warning: _This project is the result from [Masterclass #12][rocketseat-youtube] by [@Rocketseat][rocketseat-github]._
 
 [![App presentation][app-gif]][app-gif]
 
@@ -62,7 +63,7 @@ npm run start
 yarn start
 ```
 ---
-Made with ❤ by Cristian Prochnow. Enjoy it! 🚀
+Made with ❤ by [Cristian Prochnow][author-url]. Enjoy it! 🚀
 
 [app-gif]: ./.github/authrn.gif
 [repo-url]: https://github.com/cristianprochnow/react-native-authentication
@@ -74,3 +75,5 @@ Made with ❤ by Cristian Prochnow. Enjoy it! 🚀
 [react-navigation]: https://reactnavigation.org/
 [rocketseat-youtube]: https://www.youtube.com/watch?v=KISMYYXSIX8
 [rocketseat-github]: https://github.com/Rocketseat
+[author-shield]: https://img.shields.io/badge/author-Cristian%20Prochnow-orange
+[author-url]: https://github.com/cristianprochnow
